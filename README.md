@@ -3,7 +3,7 @@
 Simple Chart based on Energy Chart API.
 Angular, chart.js
 
-![screenshot](/energy-chart-examples/simple-angular-chart/blob/main/src/assets/screenshot.png)
+![screenshot](https://github.com/energy-chart-examples/simple-angular-chart/blob/main/src/assets/screenshot.png)
 
 ## Development server
 
