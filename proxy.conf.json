@@ -1,0 +1,14 @@
+{
+  "/api/*": {
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true,
+    "headers": {
+      "Connection": "keep-alive"
+    },
+    "target": "https://api.energy-charts.info/",
+    "pathRewrite": {
+      "^/api": ""
+    }
+  }
+}
